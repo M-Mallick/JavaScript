@@ -1,0 +1,10 @@
+a = 10;
+b = true;
+c = 9.85;
+d = "Hello Hello !!";
+e = 'Y';
+console.log(a, typeof a);
+console.log(b, typeof b);
+console.log(c, typeof c);
+console.log(d, typeof(d));
+console.log(e, typeof(e));
