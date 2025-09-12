@@ -5,6 +5,7 @@
                                 when accessing elements via square bracket 
                                 notation (arr[-1]).
 */
+
 let arr = [1, 2, 3, 4, 5, 6];
 
 // Accessing from left to right by using indices
