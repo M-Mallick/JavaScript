@@ -5,4 +5,3 @@ for (let i = 0; i < arr.length; i++) {
         process.stdout.write(arr[i][j] + ' ');
     }
 }
-
