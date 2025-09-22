@@ -13,5 +13,3 @@ let a1 = () => {
   console.log("Hello A.F.");
 }
 a1();
-
-
