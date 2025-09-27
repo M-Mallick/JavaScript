@@ -18,8 +18,8 @@ console.log("--next--");
     console.log(str);
 }
 
-
 console.log("--next--");
+
 {
     let str = "ILOVECODING";
     console.log(str.indexOf("CO"));
