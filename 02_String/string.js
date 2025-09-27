@@ -5,8 +5,8 @@
     console.log(str);
 }
 
-
 console.log("--next--");
+
 {
     /* ToUpperCase and ToLowerCase Method
         --> str.toUpperCase();
